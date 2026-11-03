@@ -116,7 +116,7 @@ input,
 select,
 textarea {
   background: var(--surface);
-  border: 1px solid var(- -raised);
+  border: 1px solid var(--raised);
   border-radius: var(--radius);
   padding: .65rem .9rem;
 }
